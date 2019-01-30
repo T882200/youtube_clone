@@ -10,10 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^2.3.3",
+    "apollo-server-express": "^1.2.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "graphql": "^14.1.1"
+    "graphql": "^14.1.1",
+    "graphql-tools": "^4.0.4"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
